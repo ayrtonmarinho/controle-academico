@@ -1,6 +1,6 @@
 # Controle Acadêmico
 
-###### Autor/Desenvolvedor: <a href=“https://github.com/ayrtonmarinho“>Ayrton Marinho</a>
+###### Autor/Desenvolvedor: [Ayrton Marinho](https://www.linkedin.com/in/ayrton-marinho-34a69811a/)
 
 O controle acadêmico foi um projeto da cadeira Pratica de Programação da Graduação de Ciência da Computação (UNICAP) . Resumindo:
 
