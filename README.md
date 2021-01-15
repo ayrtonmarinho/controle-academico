@@ -1,5 +1,7 @@
 # Controle Acadêmico
 
+###### Autor/Desenvolvedor: <a href=“https://github.com/ayrtonmarinho“>Ayrton Marinho</a>
+
 O controle acadêmico foi um projeto da cadeira Pratica de Programação da Graduação de Ciência da Computação (UNICAP) . Resumindo:
 
 #### O projeto foi construído em Java junto com JavaFX usando FXML.
